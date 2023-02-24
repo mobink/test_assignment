@@ -1,4 +1,4 @@
-# Test_assignment
+# Infijoy_assignment
 
 Both the classes are under src/test/java
 
@@ -31,3 +31,6 @@ ClassName - ValidateAboutUsPage
 Run the validateAboutUSPage() method as a TestNG test method,
 
 we just needed to right click -> Run validateAboutUSPage()
+
+
+
