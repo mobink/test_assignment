@@ -1,0 +1,452 @@
+[
+  {
+    "plateNo": "X 19599",
+    "driverName": "Wyatt Liam",
+    "lat": 25.357119,
+    "lng": 55.391068,
+    "location": "Rolla, Sharjah, the UAE",
+    "imageURL": "https://i.picsum.photos/id/583/200/300.jpg",
+    "lastUpdated": "2023-02-15T17:28:46+00:00"
+  },
+  {
+    "plateNo": "O 41291",
+    "driverName": "William Noah",
+    "lat": 24.058611,
+    "lng": 55.7775,
+    "location": "Jebel Hafeet Mountain Road, UAE",
+    "imageURL": "https://i.picsum.photos/id/177/200/300.jpg",
+    "lastUpdated": "2023-02-16T03:54:46+00:00"
+  },
+  {
+    "plateNo": "I 93053",
+    "driverName": "Thomas William",
+    "lat": 25.259933,
+    "lng": 55.322769,
+    "location": "Al Maktoum Rd, Dubai, United Arab Emirates",
+    "imageURL": "https://i.picsum.photos/id/447/200/300.jpg",
+    "lastUpdated": "2023-02-15T22:17:46+00:00"
+  },
+  {
+    "plateNo": "P 33048",
+    "driverName": "Theodore James",
+    "lat": 24.863075,
+    "lng": 55.052059,
+    "location": "Al Marai Road, Dubai, United Arab Emirates",
+    "imageURL": "https://i.picsum.photos/id/343/200/300.jpg",
+    "lastUpdated": "2023-02-16T01:39:46+00:00"
+  },
+  {
+    "plateNo": "P 33331",
+    "driverName": "Sebastian Oliver",
+    "lat": 25.087942,
+    "lng": 55.147499,
+    "location": "The Marina Torch, Dubai, United Arab Emirates",
+    "imageURL": "https://i.picsum.photos/id/304/200/300.jpg",
+    "lastUpdated": "2023-02-15T16:40:46+00:00"
+  },
+  {
+    "plateNo": "I 66897",
+    "driverName": "Samuel Benjamin",
+    "lat": 25.21768,
+    "lng": 55.283546,
+    "location": "Emirates Office Tower, Dubai, UAE",
+    "imageURL": "https://i.picsum.photos/id/147/200/300.jpg",
+    "lastUpdated": "2023-02-16T07:40:46+00:00"
+  },
+  {
+    "plateNo": "C 31590",
+    "driverName": "Ryan Elijah",
+    "lat": 25.18561,
+    "lng": 55.258133,
+    "location": "JW Marriott Marquis Dubai, Busines Bay, Dubai, UAE",
+    "imageURL": "https://i.picsum.photos/id/188/200/300.jpg",
+    "lastUpdated": "2023-02-16T05:53:46+00:00"
+  },
+  {
+    "plateNo": "Q 89697",
+    "driverName": "Owen Lucas",
+    "lat": 25.089575,
+    "lng": 55.147846,
+    "location": "Elite Residence, Dubai, United Arab Emirates",
+    "imageURL": "https://i.picsum.photos/id/652/200/300.jpg",
+    "lastUpdated": "2023-02-15T21:45:46+00:00"
+  },
+  {
+    "plateNo": "X 54992",
+    "driverName": "Oliver Mason",
+    "lat": 24.487249,
+    "lng": 54.357464,
+    "location": "World Trade Center Abu Dhabi, Abu Dhabi, United Arab Emirates",
+    "imageURL": "https://i.picsum.photos/id/497/200/300.jpg",
+    "lastUpdated": "2023-02-16T04:09:46+00:00"
+  },
+  {
+    "plateNo": "I 53457",
+    "driverName": "Noah Logan",
+    "lat": 25.089718,
+    "lng": 55.150646,
+    "location": "23 Marina, Dubai, United Arab Emirates",
+    "imageURL": "https://i.picsum.photos/id/719/200/300.jpg",
+    "lastUpdated": "2023-02-15T18:49:46+00:00"
+  },
+  {
+    "plateNo": "P 86578",
+    "driverName": "Nathan Alexander",
+    "lat": 25.088907,
+    "lng": 55.148571,
+    "location": "Marina 101, Dubai Marina, Dubai, United Arab Emirates",
+    "imageURL": "https://i.picsum.photos/id/235/200/300.jpg",
+    "lastUpdated": "2023-02-16T02:30:46+00:00"
+  },
+  {
+    "plateNo": "B 37262",
+    "driverName": "Michael Ethan",
+    "lat": 25.199514,
+    "lng": 55.277397,
+    "location": "Dubai Mall, Dubai, United Arab Emirates",
+    "imageURL": "https://i.picsum.photos/id/806/200/300.jpg",
+    "lastUpdated": "2023-02-15T15:52:46+00:00"
+  },
+  {
+    "plateNo": "C 74914",
+    "driverName": "Matthew Jacob",
+    "lat": 25.197525,
+    "lng": 55.274288,
+    "location": "Burj Khalifa, Dubai, United Arab Emirates",
+    "imageURL": "https://i.picsum.photos/id/208/200/300.jpg",
+    "lastUpdated": "2023-02-16T07:23:46+00:00"
+  },
+  {
+    "plateNo": "V 59968",
+    "driverName": "Mateo Michael",
+    "lat": 24.418612,
+    "lng": 54.434723,
+    "location": "Capital Gate, Abu Dhabi, United Arab Emirates",
+    "imageURL": "https://i.picsum.photos/id/575/200/300.jpg",
+    "lastUpdated": "2023-02-16T02:09:46+00:00"
+  },
+  {
+    "plateNo": "S 49276",
+    "driverName": "Mason Daniel",
+    "lat": 24.421555,
+    "lng": 54.576599,
+    "location": "Khalifa City, Abu Dhabi, United Arab Emirates",
+    "imageURL": "https://i.picsum.photos/id/234/200/300.jpg",
+    "lastUpdated": "2023-02-16T08:01:46+00:00"
+  },
+  {
+    "plateNo": "L 19034",
+    "driverName": "Luke Henry",
+    "lat": 25.266666,
+    "lng": 55.316666,
+    "location": "Deira, Dubai, United Arab Emirates",
+    "imageURL": "https://i.picsum.photos/id/866/200/300.jpg",
+    "lastUpdated": "2023-02-15T16:57:46+00:00"
+  },
+  {
+    "plateNo": "I 42046",
+    "driverName": "Lucas Jackson ",
+    "lat": 25.800694,
+    "lng": 55.9762,
+    "location": "Ras Al-Khaimah, Ras al Khaimah, United Arab Emirates",
+    "imageURL": "https://i.picsum.photos/id/759/200/300.jpg",
+    "lastUpdated": "2023-02-16T00:52:46+00:00"
+  },
+  {
+    "plateNo": "H 83296",
+    "driverName": "Logan Sebastian",
+    "lat": 24.184843,
+    "lng": 54.499901,
+    "location": "Al Dhafra, Abu Dhabi, United Arab Emirates",
+    "imageURL": "https://i.picsum.photos/id/472/200/300.jpg",
+    "lastUpdated": "2023-02-15T21:20:46+00:00"
+  },
+  {
+    "plateNo": "A 66081",
+    "driverName": "Lincoln Aiden",
+    "lat": 25.322327,
+    "lng": 55.513641,
+    "location": "Sharjah, United Arab Emirates",
+    "imageURL": "https://i.picsum.photos/id/504/200/300.jpg",
+    "lastUpdated": "2023-02-16T01:08:46+00:00"
+  },
+  {
+    "plateNo": "T 50237",
+    "driverName": "Liam Matthew",
+    "lat": 24.466667,
+    "lng": 54.366669,
+    "location": "Abu Dhabi, United Arab Emirates",
+    "imageURL": "https://i.picsum.photos/id/627/200/300.jpg",
+    "lastUpdated": "2023-02-16T05:19:46+00:00"
+  },
+  {
+    "plateNo": "L 92214",
+    "driverName": "Levi Samuel",
+    "lat": 24.2075,
+    "lng": 55.74472,
+    "location": "Al Ain, United Arab Emirates",
+    "imageURL": "https://i.picsum.photos/id/383/200/300.jpg",
+    "lastUpdated": "2023-02-16T07:34:46+00:00"
+  },
+  {
+    "plateNo": "F 43764",
+    "driverName": "Leo David",
+    "lat": 25.276987,
+    "lng": 55.296249,
+    "location": "Dubai, United Arab Emirates",
+    "imageURL": "https://i.picsum.photos/id/331/200/300.jpg",
+    "lastUpdated": "2023-02-15T23:42:46+00:00"
+  },
+  {
+    "plateNo": "R 24994",
+    "driverName": "Julian Joseph",
+    "lat": 25.392134,
+    "lng": 55.439693,
+    "location": "Grand Office Tower Rashidiya, Ajman, the UAE",
+    "imageURL": "https://i.picsum.photos/id/738/200/300.jpg",
+    "lastUpdated": "2023-02-16T02:49:46+00:00"
+  },
+  {
+    "plateNo": "A 24403",
+    "driverName": "Joshua Carter",
+    "lat": 25.0963,
+    "lng": 55.166893,
+    "location": "The Onyx Tower 2, Dubai City, Dubai, the UAE",
+    "imageURL": "https://i.picsum.photos/id/640/200/300.jpg",
+    "lastUpdated": "2023-02-15T23:50:46+00:00"
+  },
+  {
+    "plateNo": "A 59618",
+    "driverName": "Joseph Owen",
+    "lat": 25.068422,
+    "lng": 55.142982,
+    "location": "AG Tower, Dubai, United Arab Emirates",
+    "imageURL": "https://i.picsum.photos/id/425/200/300.jpg",
+    "lastUpdated": "2023-02-15T20:21:46+00:00"
+  },
+  {
+    "plateNo": "C 35447",
+    "driverName": "John Wyatt",
+    "lat": 25.068983,
+    "lng": 55.141205,
+    "location": "Almas Tower, Dubai, United Arab Emirates",
+    "imageURL": "https://i.picsum.photos/id/860/200/300.jpg",
+    "lastUpdated": "2023-02-15T18:37:46+00:00"
+  },
+  {
+    "plateNo": "J 95558",
+    "driverName": "Jayden John",
+    "lat": 25.088713,
+    "lng": 55.146679,
+    "location": "Princess Tower, Dubai Marina, Dubai, United Arab Emirates",
+    "imageURL": "https://i.picsum.photos/id/482/200/300.jpg",
+    "lastUpdated": "2023-02-15T17:15:46+00:00"
+  },
+  {
+    "plateNo": "Y 46460",
+    "driverName": "Jaxon Jack",
+    "lat": 25.173683,
+    "lng": 55.404945,
+    "location": "England Cluster, International City, Dubai, UAE",
+    "imageURL": "https://i.picsum.photos/id/801/200/300.jpg",
+    "lastUpdated": "2023-02-16T04:00:46+00:00"
+  },
+  {
+    "plateNo": "D 26771",
+    "driverName": "James Luke",
+    "lat": 25.069872,
+    "lng": 55.172516,
+    "location": "Emirates Hills, Dubai, United Arab Emirates",
+    "imageURL": "https://i.picsum.photos/id/227/200/300.jpg",
+    "lastUpdated": "2023-02-15T20:35:46+00:00"
+  },
+  {
+    "plateNo": "G 76076",
+    "driverName": "Jacob Jayden",
+    "lat": 25.184242,
+    "lng": 55.27243,
+    "location": "Business Bay, Dubai, United Arab Emirates",
+    "imageURL": "https://i.picsum.photos/id/804/200/300.jpg",
+    "lastUpdated": "2023-02-16T00:53:46+00:00"
+  },
+  {
+    "plateNo": "A 29825",
+    "driverName": "Jackson Dylan",
+    "lat": 24.332018,
+    "lng": 54.534374,
+    "location": "Mussafah Community, Abu Dhabi, United Arab Emirates",
+    "imageURL": "https://i.picsum.photos/id/596/200/300.jpg",
+    "lastUpdated": "2023-02-15T19:50:46+00:00"
+  },
+  {
+    "plateNo": "X 70109",
+    "driverName": "Jack Grayson",
+    "lat": 25.134415,
+    "lng": 55.245258,
+    "location": "Al Quoz Industrial Area 2, Dubai, United Arab Emirates",
+    "imageURL": "https://i.picsum.photos/id/126/200/300.jpg",
+    "lastUpdated": "2023-02-15T19:39:46+00:00"
+  },
+  {
+    "plateNo": "N 43426",
+    "driverName": "Isaac Levi",
+    "lat": 25.22053,
+    "lng": 55.419472,
+    "location": "Mirdif, Dubai, UAE",
+    "imageURL": "https://i.picsum.photos/id/460/200/300.jpg",
+    "lastUpdated": "2023-02-15T22:28:46+00:00"
+  },
+  {
+    "plateNo": "X 42412",
+    "driverName": "Henry Isaac",
+    "lat": 25.308014,
+    "lng": 55.411171,
+    "location": "Industrial Area 3 - Sharjah - United Arab Emirates",
+    "imageURL": "https://i.picsum.photos/id/256/200/300.jpg",
+    "lastUpdated": "2023-02-16T06:36:46+00:00"
+  },
+  {
+    "plateNo": "N 62746",
+    "driverName": "Grayson Gabriel",
+    "lat": 25.267906,
+    "lng": 55.323158,
+    "location": "Al Muraqqabat, Dubai, United Arab Emirates",
+    "imageURL": "https://i.picsum.photos/id/200/200/300.jpg",
+    "lastUpdated": "2023-02-15T23:22:46+00:00"
+  },
+  {
+    "plateNo": "M 21753",
+    "driverName": "Gabriel Julian",
+    "lat": 25.11894,
+    "lng": 55.183552,
+    "location": "Al Sufouh, Dubai, United Arab Emirates",
+    "imageURL": "https://i.picsum.photos/id/271/200/300.jpg",
+    "lastUpdated": "2023-02-16T08:04:46+00:00"
+  },
+  {
+    "plateNo": "R 95145",
+    "driverName": "Ethan Mateo",
+    "lat": 25.0939016825397,
+    "lng": 55.3175031507937,
+    "location": "Rolla, Sharjah, the UAE",
+    "imageURL": "https://i.picsum.photos/id/373/200/300.jpg",
+    "lastUpdated": "2023-02-16T02:14:46+00:00"
+  },
+  {
+    "plateNo": "D 58760",
+    "driverName": "Elijah Anthony",
+    "lat": 25.0988686188331,
+    "lng": 55.3297002597154,
+    "location": "Jebel Hafeet Mountain Road, UAE",
+    "imageURL": "https://i.picsum.photos/id/150/200/300.jpg",
+    "lastUpdated": "2023-02-15T21:20:46+00:00"
+  },
+  {
+    "plateNo": "T 36944",
+    "driverName": "Dylan Jaxon",
+    "lat": 25.1038355551266,
+    "lng": 55.3418973686371,
+    "location": "Al Maktoum Rd, Dubai, United Arab Emirates",
+    "imageURL": "https://i.picsum.photos/id/300/200/300.jpg",
+    "lastUpdated": "2023-02-16T00:36:46+00:00"
+  },
+  {
+    "plateNo": "N 92677",
+    "driverName": "David Lincoln",
+    "lat": 25.10880249142,
+    "lng": 55.3540944775588,
+    "location": "Al Marai Road, Dubai, United Arab Emirates",
+    "imageURL": "https://i.picsum.photos/id/771/200/300.jpg",
+    "lastUpdated": "2023-02-16T03:25:46+00:00"
+  },
+  {
+    "plateNo": "A 28636",
+    "driverName": "Daniel Joshua",
+    "lat": 25.1137694277134,
+    "lng": 55.3662915864806,
+    "location": "The Marina Torch, Dubai, United Arab Emirates",
+    "imageURL": "https://i.picsum.photos/id/627/200/300.jpg",
+    "lastUpdated": "2023-02-16T04:01:46+00:00"
+  },
+  {
+    "plateNo": "W 69506",
+    "driverName": "Christopher Christopher",
+    "lat": 25.1187363640069,
+    "lng": 55.3784886954023,
+    "location": "Emirates Office Tower, Dubai, UAE",
+    "imageURL": "https://i.picsum.photos/id/759/200/300.jpg",
+    "lastUpdated": "2023-02-16T04:45:46+00:00"
+  },
+  {
+    "plateNo": "N 87111",
+    "driverName": "Carter Andrew",
+    "lat": 24.1237033003003,
+    "lng": 54.434723,
+    "location": "JW Marriott Marquis Dubai, Busines Bay, Dubai, UAE",
+    "imageURL": "https://i.picsum.photos/id/173/200/300.jpg",
+    "lastUpdated": "2023-02-15T15:32:46+00:00"
+  },
+  {
+    "plateNo": "O 19439",
+    "driverName": "Caleb Theodore",
+    "lat": 24.418612,
+    "lng": 54.576599,
+    "location": "Elite Residence, Dubai, United Arab Emirates",
+    "imageURL": "https://i.picsum.photos/id/144/200/300.jpg",
+    "lastUpdated": "2023-02-16T01:44:46+00:00"
+  },
+  {
+    "plateNo": "Y 27000",
+    "driverName": "Benjamin Caleb",
+    "lat": 24.421555,
+    "lng": 55.316666,
+    "location": "World Trade Center Abu Dhabi, Abu Dhabi, United Arab Emirates",
+    "imageURL": "https://i.picsum.photos/id/236/200/300.jpg",
+    "lastUpdated": "2023-02-15T22:24:46+00:00"
+  },
+  {
+    "plateNo": "N 18898",
+    "driverName": "Asher Ryan",
+    "lat": 25.266666,
+    "lng": 55.9762,
+    "location": "24 Marina, Dubai, United Arab Emirates",
+    "imageURL": "https://i.picsum.photos/id/383/200/300.jpg",
+    "lastUpdated": "2023-02-15T16:17:46+00:00"
+  },
+  {
+    "plateNo": "J 55060",
+    "driverName": "Anthony Asher",
+    "lat": 24.800694,
+    "lng": 54.899901,
+    "location": "Marina 101, Dubai Marina, Dubai, United Arab Emirates",
+    "imageURL": "https://i.picsum.photos/id/420/200/300.jpg",
+    "lastUpdated": "2023-02-16T03:12:46+00:00"
+  },
+  {
+    "plateNo": "V 23011",
+    "driverName": "Andrew Nathan",
+    "lat": 24.184843,
+    "lng": 55.513641,
+    "location": "Rolla, Sharjah, the UAE",
+    "imageURL": "https://i.picsum.photos/id/429/200/300.jpg",
+    "lastUpdated": "2023-02-15T20:09:46+00:00"
+  },
+  {
+    "plateNo": "X 94517",
+    "driverName": "Alexander Thomas",
+    "lat": 24.322327,
+    "lng":"",
+    "location": "Jebel Hafeet Mountain Road, UAE",
+    "imageURL": "https://i.picsum.photos/id/690/200/300.jpg",
+    "lastUpdated": "2023-02-16T04:17:46+00:00"
+  },
+  {
+    "plateNo": "N 26414",
+    "driverName": "Aiden Leo",
+    "lat": 24.466667,
+    "lng": 55.74472,
+    "location": "Al Maktoum Rd, Dubai, United Arab Emirates",
+    "imageURL": "https://i.picsum.photos/id/737/200/300.jpg",
+    "lastUpdated": "2023-02-16T01:13:46+00:00"
+  }
+]
